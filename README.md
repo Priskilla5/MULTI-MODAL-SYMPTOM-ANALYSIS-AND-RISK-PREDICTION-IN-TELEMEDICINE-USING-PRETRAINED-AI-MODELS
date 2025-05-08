@@ -22,3 +22,4 @@ All medical data is securely processed and stored, ensuring patient confidential
 
 📱 Designed for Everyone
 Clean, intuitive mobile interface developed using Flutter, optimized for both patient ease-of-use and clinical efficiency.
+"# MULTI-MODAL-SYMPTOM-ANALYSIS-AND-RISK-PREDICTION-IN-TELEMEDICINE-USING-PRETRAINED-AI-MODELS" 
