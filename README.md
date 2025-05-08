@@ -1,8 +1,8 @@
-# 🧠 Multi-Modal Symptom Analysis and Risk Prediction in Telemedicine using Pretrained AI Models
+# Multi-Modal Symptom Analysis and Risk Prediction in Telemedicine using Pretrained AI Models
 
 ![Architecture Diagram](https://i.postimg.cc/YqCNr8wB/main-diagram.png)
 
-## 🩺 Project Overview
+##  Project Overview
 
 In today’s fast-evolving healthcare landscape, remote diagnosis and patient care have become more critical than ever. This project introduces an AI-powered telemedicine solution capable of **analyzing both visual and textual symptoms** to provide **accurate medical condition predictions, risk severity classification, and appropriate health guidance** — all powered by cutting-edge pretrained models.
 
@@ -10,7 +10,7 @@ This system enables users to upload **images (e.g., wounds, rashes)** and **desc
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - 📷 Image analysis using **CLIP**
 - 💬 Text-based diagnosis with **BioGPT**
@@ -21,7 +21,7 @@ This system enables users to upload **images (e.g., wounds, rashes)** and **desc
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 The architecture diagram above outlines the complete flow of data and model interactions.
 
@@ -47,7 +47,7 @@ The architecture diagram above outlines the complete flow of data and model inte
 
 ---
 
-## 💡 Use Case Scenarios
+##  Use Case Scenarios
 
 - Skin rash detection and remedy advice
 - Burn or wound image analysis with severity estimate
@@ -82,7 +82,7 @@ The architecture diagram above outlines the complete flow of data and model inte
 
 ---
 
-## 📈 Results & Performance
+##  Results & Performance
 
 - 🔍 Accuracy (CLIP + BioGPT Fusion): **~87%**
 - 🎯 F1 Score (Severity Classification): **0.91**
@@ -91,7 +91,7 @@ The architecture diagram above outlines the complete flow of data and model inte
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - 🌍 Multilingual support
 - 🏥 EHR system integration
